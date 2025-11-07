@@ -1,0 +1,3 @@
+/home/orangepi/Desktop/build/CMakeFiles/app.dir
+/home/orangepi/Desktop/build/CMakeFiles/edit_cache.dir
+/home/orangepi/Desktop/build/CMakeFiles/rebuild_cache.dir

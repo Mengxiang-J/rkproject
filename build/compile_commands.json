@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/orangepi/Desktop/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/orangepi/Desktop/3rdparty/librknn_api/include -I/home/orangepi/Desktop/3rdparty/rga/RK3588/include -isystem /usr/include/opencv4 -g -std=gnu++11 -o CMakeFiles/app.dir/main.cpp.o -c /home/orangepi/Desktop/main.cpp",
+  "file": "/home/orangepi/Desktop/main.cpp"
+},
+{
+  "directory": "/home/orangepi/Desktop/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/orangepi/Desktop/3rdparty/librknn_api/include -I/home/orangepi/Desktop/3rdparty/rga/RK3588/include -isystem /usr/include/opencv4 -g -std=gnu++11 -o CMakeFiles/app.dir/thread_poll.cpp.o -c /home/orangepi/Desktop/thread_poll.cpp",
+  "file": "/home/orangepi/Desktop/thread_poll.cpp"
+},
+{
+  "directory": "/home/orangepi/Desktop/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/orangepi/Desktop/3rdparty/librknn_api/include -I/home/orangepi/Desktop/3rdparty/rga/RK3588/include -isystem /usr/include/opencv4 -g -std=gnu++11 -o CMakeFiles/app.dir/yolov5s.cpp.o -c /home/orangepi/Desktop/yolov5s.cpp",
+  "file": "/home/orangepi/Desktop/yolov5s.cpp"
+},
+{
+  "directory": "/home/orangepi/Desktop/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/orangepi/Desktop/3rdparty/librknn_api/include -I/home/orangepi/Desktop/3rdparty/rga/RK3588/include -isystem /usr/include/opencv4 -g -std=gnu++11 -o CMakeFiles/app.dir/post_process.cpp.o -c /home/orangepi/Desktop/post_process.cpp",
+  "file": "/home/orangepi/Desktop/post_process.cpp"
+}
+]

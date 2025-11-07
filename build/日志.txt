@@ -1,0 +1,257 @@
+初始化线程池！yolo 初始化成功！
+输入 tensor个数为：3 
+输出 tensor个数为：1 
+输入  的tensor0  属性为：
+index = 0, name = images， n_dims = 4, dims = [1,640,640,3], 
+size = 1228800, fmt = NHWC
+
+输出  的tensor0  属性为：
+index = 0, name = output0， n_dims = 4, dims = [1,255,80,80], 
+size = 1632000, fmt = NCHW
+
+输出  的tensor1  属性为：
+index = 1, name = 327， n_dims = 4, dims = [1,255,40,40], 
+size = 408000, fmt = NCHW
+
+输出  的tensor2  属性为：
+index = 2, name = 328， n_dims = 4, dims = [1,255,20,20], 
+size = 102000, fmt = NCHW
+
+yolo 初始化成功！
+输入 tensor个数为：3 
+输出 tensor个数为：1 
+输入  的tensor0  属性为：
+index = 0, name = images， n_dims = 4, dims = [1,640,640,3], 
+size = 1228800, fmt = NHWC
+
+输出  的tensor0  属性为：
+index = 0, name = output0， n_dims = 4, dims = [1,255,80,80], 
+size = 1632000, fmt = NCHW
+
+输出  的tensor1  属性为：
+index = 1, name = 327， n_dims = 4, dims = [1,255,40,40], 
+size = 408000, fmt = NCHW
+
+输出  的tensor2  属性为：
+index = 2, name = 328， n_dims = 4, dims = [1,255,20,20], 
+size = 102000, fmt = NCHW
+
+yolo 初始化成功！
+输入 tensor个数为：3 
+输出 tensor个数为：1 
+输入  的tensor0  属性为：
+index = 0, name = images， n_dims = 4, dims = [1,640,640,3], 
+size = 1228800, fmt = NHWC
+
+输出  的tensor0  属性为：
+index = 0, name = output0， n_dims = 4, dims = [1,255,80,80], 
+size = 1632000, fmt = NCHW
+
+输出  的tensor1  属性为：
+index = 1, name = 327， n_dims = 4, dims = [1,255,40,40], 
+size = 408000, fmt = NCHW
+
+输出  的tensor2  属性为：
+index = 2, name = 328， n_dims = 4, dims = [1,255,20,20], 
+size = 102000, fmt = NCHW
+
+yolo 初始化成功！
+输入 tensor个数为：3 
+输出 tensor个数为：1 
+输入  的tensor0  属性为：
+index = 0, name = images， n_dims = 4, dims = [1,640,640,3], 
+size = 1228800, fmt = NHWC
+
+输出  的tensor0  属性为：
+index = 0, name = output0， n_dims = 4, dims = [1,255,80,80], 
+size = 1632000, fmt = NCHW
+
+输出  的tensor1  属性为：
+index = 1, name = 327， n_dims = 4, dims = [1,255,40,40], 
+size = 408000, fmt = NCHW
+
+输出  的tensor2  属性为：
+index = 2, name = 328， n_dims = 4, dims = [1,255,20,20], 
+size = 102000, fmt = NCHW
+
+yolo 初始化成功！
+输入 tensor个数为：3 
+输出 tensor个数为：1 
+输入  的tensor0  属性为：
+index = 0, name = images， n_dims = 4, dims = [1,640,640,3], 
+size = 1228800, fmt = NHWC
+
+输出  的tensor0  属性为：
+index = 0, name = output0， n_dims = 4, dims = [1,255,80,80], 
+size = 1632000, fmt = NCHW
+
+输出  的tensor1  属性为：
+index = 1, name = 327， n_dims = 4, dims = [1,255,40,40], 
+size = 408000, fmt = NCHW
+
+输出  的tensor2  属性为：
+index = 2, name = 328， n_dims = 4, dims = [1,255,20,20], 
+size = 102000, fmt = NCHW
+
+yolo 初始化成功！
+输入 tensor个数为：3 
+输出 tensor个数为：1 
+输入  的tensor0  属性为：
+index = 0, name = images， n_dims = 4, dims = [1,640,640,3], 
+size = 1228800, fmt = NHWC
+
+输出  的tensor0  属性为：
+index = 0, name = output0， n_dims = 4, dims = [1,255,80,80], 
+size = 1632000, fmt = NCHW
+
+输出  的tensor1  属性为：
+index = 1, name = 327， n_dims = 4, dims = [1,255,40,40], 
+size = 408000, fmt = NCHW
+
+输出  的tensor2  属性为：
+index = 2, name = 328， n_dims = 4, dims = [1,255,20,20], 
+size = 102000, fmt = NCHW
+
+yolo 初始化成功！
+输入 tensor个数为：3 
+输出 tensor个数为：1 
+输入  的tensor0  属性为：
+index = 0, name = images， n_dims = 4, dims = [1,640,640,3], 
+size = 1228800, fmt = NHWC
+
+输出  的tensor0  属性为：
+index = 0, name = output0， n_dims = 4, dims = [1,255,80,80], 
+size = 1632000, fmt = NCHW
+
+输出  的tensor1  属性为：
+index = 1, name = 327， n_dims = 4, dims = [1,255,40,40], 
+size = 408000, fmt = NCHW
+
+输出  的tensor2  属性为：
+index = 2, name = 328， n_dims = 4, dims = [1,255,20,20], 
+size = 102000, fmt = NCHW
+
+yolo 初始化成功！
+输入 tensor个数为：3 
+输出 tensor个数为：1 
+输入  的tensor0  属性为：
+index = 0, name = images， n_dims = 4, dims = [1,640,640,3], 
+size = 1228800, fmt = NHWC
+
+输出  的tensor0  属性为：
+index = 0, name = output0， n_dims = 4, dims = [1,255,80,80], 
+size = 1632000, fmt = NCHW
+
+输出  的tensor1  属性为：
+index = 1, name = 327， n_dims = 4, dims = [1,255,40,40], 
+size = 408000, fmt = NCHW
+
+输出  的tensor2  属性为：
+index = 2, name = 328， n_dims = 4, dims = [1,255,20,20], 
+size = 102000, fmt = NCHW
+
+yolo 初始化成功！
+输入 tensor个数为：3 
+输出 tensor个数为：1 
+输入  的tensor0  属性为：
+index = 0, name = images， n_dims = 4, dims = [1,640,640,3], 
+size = 1228800, fmt = NHWC
+
+输出  的tensor0  属性为：
+index = 0, name = output0， n_dims = 4, dims = [1,255,80,80], 
+size = 1632000, fmt = NCHW
+
+输出  的tensor1  属性为：
+index = 1, name = 327， n_dims = 4, dims = [1,255,40,40], 
+size = 408000, fmt = NCHW
+
+输出  的tensor2  属性为：
+index = 2, name = 328， n_dims = 4, dims = [1,255,20,20], 
+size = 102000, fmt = NCHW
+
+yolo 初始化成功！
+输入 tensor个数为：3 
+输出 tensor个数为：1 
+输入  的tensor0  属性为：
+index = 0, name = images， n_dims = 4, dims = [1,640,640,3], 
+size = 1228800, fmt = NHWC
+
+输出  的tensor0  属性为：
+index = 0, name = output0， n_dims = 4, dims = [1,255,80,80], 
+size = 1632000, fmt = NCHW
+
+输出  的tensor1  属性为：
+index = 1, name = 327， n_dims = 4, dims = [1,255,40,40], 
+size = 408000, fmt = NCHW
+
+输出  的tensor2  属性为：
+index = 2, name = 328， n_dims = 4, dims = [1,255,20,20], 
+size = 102000, fmt = NCHW
+
+yolo 初始化成功！
+输入 tensor个数为：3 
+输出 tensor个数为：1 
+输入  的tensor0  属性为：
+index = 0, name = images， n_dims = 4, dims = [1,640,640,3], 
+size = 1228800, fmt = NHWC
+
+输出  的tensor0  属性为：
+index = 0, name = output0， n_dims = 4, dims = [1,255,80,80], 
+size = 1632000, fmt = NCHW
+
+输出  的tensor1  属性为：
+index = 1, name = 327， n_dims = 4, dims = [1,255,40,40], 
+size = 408000, fmt = NCHW
+
+输出  的tensor2  属性为：
+index = 2, name = 328， n_dims = 4, dims = [1,255,20,20], 
+size = 102000, fmt = NCHW
+
+yolo 初始化成功！
+输入 tensor个数为：3 
+输出 tensor个数为：1 
+输入  的tensor0  属性为：
+index = 0, name = images， n_dims = 4, dims = [1,640,640,3], 
+size = 1228800, fmt = NHWC
+
+输出  的tensor0  属性为：
+index = 0, name = output0， n_dims = 4, dims = [1,255,80,80], 
+size = 1632000, fmt = NCHW
+
+输出  的tensor1  属性为：
+index = 1, name = 327， n_dims = 4, dims = [1,255,40,40], 
+size = 408000, fmt = NCHW
+
+输出  的tensor2  属性为：
+index = 2, name = 328， n_dims = 4, dims = [1,255,20,20], 
+size = 102000, fmt = NCHW
+
+heigth:720,width:960
+ fps:29.953942,frame_sum:904
+0
+index:0,
+frame:0
+这时候index的值:%d这时候图片存在，且index是：00
+
+Image Height: 720
+Image Width: 960
+Image Channels: 3
+Resize Height: 640
+Resize Width: 640
+Resize Channels: 3
+rga_api version 1.9.1_[4]
+convert color OK!
+resize color OK!
+rga process time : 11 ms.
+第0个output的zp和scale分别是：69,0.093581
+第1个output的zp和scale分别是：49,0.085973
+第2个output的zp和scale分别是：43,0.083459
+标签数量是 80
+48
+1.47439
+第一个
+第二个
+第三个
+jiacne:0
+到这里插入图片成功了
+work中接到的index:0
